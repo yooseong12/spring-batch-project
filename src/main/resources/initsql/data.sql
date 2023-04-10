@@ -1,0 +1,13 @@
+INSERT INTO product (name, price) values ("사과", 1000);
+INSERT INTO product (name, price) values ("복숭아", 1500);
+INSERT INTO product (name, price) values ("포도", 1200);
+INSERT INTO product (name, price) values ("에어컨", 900);
+INSERT INTO product (name, price) values ("티비", 500);
+INSERT INTO product (name, price) values ("컴퓨터", 2000);
+INSERT INTO product (name, price) values ("노트북", 3000);
+INSERT INTO product (name, price) values ("라면", 4000);
+INSERT INTO product (name, price) values ("콜라", 1000);
+INSERT INTO product (name, price) values ("사이다", 1000);
+INSERT INTO product (name, price) values ("선충기", 3000);
+INSERT INTO product (name, price) values ("아이폰", 3000);
+INSERT INTO product (name, price) values ("갤럭시", 3000);
